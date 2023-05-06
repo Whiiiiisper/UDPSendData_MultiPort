@@ -1,0 +1,10 @@
+﻿  Reading Qt configuration (D:/Program/Qt/Qt5.12.10/5.12.10/msvc2017_64/bin/qmake)
+  rcc UDPSendData.qrc
+   RCC: Warning: No resources in 'D:\Desktop\QT\QT_tools\UDPSendData_multiport2.0\UDPSendData\UDPSendData.qrc'.
+  SendFileContent.cpp
+  UDPSendData.cpp
+  main.cpp
+  moc_UDPSendData.cpp
+  moc_SendFileContent.cpp
+  qrc_UDPSendData.cpp
+  UDPSendData.vcxproj -> D:\Desktop\QT\QT_tools\UDPSendData_multiport2.0\UDPSendData\x64\Release\UDPSendData.exe

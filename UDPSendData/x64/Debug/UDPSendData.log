@@ -1,0 +1,15 @@
+﻿  Reading Qt configuration (D:/Program/Qt/Qt5.12.10/5.12.10/msvc2017_64/bin/qmake)
+  uic UDPSendData.ui
+  rcc UDPSendData.qrc
+  moc UDPSendData.h
+  moc SendFileContent.h
+   RCC: Warning: No resources in 'D:\Desktop\QT\QT_tools\UDPSendData_multiport2.0\UDPSendData\UDPSendData.qrc'.
+  SendFileContent.cpp
+  UDPSendData.cpp
+  main.cpp
+  qrc_UDPSendData.cpp
+  moc_UDPSendData.cpp
+  moc_SendFileContent.cpp
+MSVCRTD.lib(initializers.obj) : warning LNK4098: 默认库“msvcrt.lib”与其他库的使用冲突；请使用 /NODEFAULTLIB:library
+qtmain.lib(qtmain_win.obj) : warning LNK4099: 未找到 PDB“”(使用“qtmain.lib(qtmain_win.obj)”或在“”中寻找)；正在链接对象，如同没有调试信息一样
+  UDPSendData.vcxproj -> D:\Desktop\QT\QT_tools\UDPSendData_multiport2.0\UDPSendData\x64\Debug\UDPSendData.exe
