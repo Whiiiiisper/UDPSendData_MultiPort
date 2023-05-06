@@ -6,8 +6,8 @@
 
 + 开发环境：VS2019+Qt5.12.10_msvc2017_32
 + 目录结构：
-        + UDPSendData中是VS2019的工程
-        + UDPSendData_exe中是打包好的Qt程序（带运行库），windows下可以直接用
+  + UDPSendData中是VS2019的工程
+  + UDPSendData_exe中是打包好的Qt程序（带运行库），windows下可以直接用
 + 界面示例：
 <div align=center>
     <img src="/img/mainwindow.png"></img>
